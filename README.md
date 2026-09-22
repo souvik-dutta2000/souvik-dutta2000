@@ -18,3 +18,196 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi, I'm Souvik Dutta 👋
+
+### 📊 Aspiring Data Analyst | Excel | SQL | Power BI | Data Analytics
+
+I'm a **Data Analyst fresher** building practical projects to develop strong skills in
+data cleaning, analysis, visualization, and business intelligence.
+
+I enjoy transforming raw data into meaningful insights and interactive dashboards
+that can support data-driven business decisions.
+
+---
+
+## 👨‍💻 About Me
+
+- 🎓 B.Tech in Computer Science / Information Technology
+- 📊 Completed Data Analytics training
+- 🔎 Currently looking for **Data Analyst / Junior Data Analyst / Data Analytics Intern** opportunities
+- 📈 Interested in Sales Analytics, Customer Analytics, Business Intelligence and Data Visualization
+- 🧹 Practicing data cleaning and preparation
+- 📚 Continuously improving my SQL, Excel and Power BI skills
+- 💻 Building practical Data Analytics projects
+
+---
+
+## 🛠️ Technical Skills
+
+### 📊 Data Analysis & Visualization
+
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+### 🗄️ Database & Querying
+
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 🔄 Data Preparation
+
+![Power Query](https://img.shields.io/badge/Power_Query-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+### 📐 Analytics
+
+- Data Cleaning
+- Data Transformation
+- Exploratory Data Analysis
+- Data Visualization
+- Data Modeling
+- KPI Development
+- Business Analytics
+- Customer Analytics
+- Sales Analytics
+- Profitability Analysis
+
+---
+
+# 🚀 Featured Project
+
+## 📊 Retail Sales & Customer Analytics Dashboard
+
+An end-to-end Data Analytics project built using **Microsoft Excel and Power BI** to analyze retail sales, profitability, product performance, and customer behavior.
+
+### 🔄 Project Workflow
+
+**Raw Data → Data Cleaning → Excel Analysis → Data Preparation → Power BI Data Modeling → DAX → Dashboard → Business Insights**
+
+### 🧰 Tools Used
+
+- Microsoft Excel
+- Power Query
+- Power BI
+- DAX
+- Data Cleaning
+- Data Modeling
+- Data Visualization
+
+### 📗 Excel Analysis
+
+Used Excel for:
+
+- Data cleaning
+- Missing-value handling
+- XLOOKUP
+- INDEX-MATCH
+- IF / IFS
+- SUMIFS
+- COUNTIFS
+- Date calculations
+- Pivot Tables
+- Pivot Charts
+- Sales and profit analysis
+
+### 📊 Power BI Dashboard
+
+Created an interactive dashboard containing:
+
+- Total Sales
+- Total Profit
+- Total Orders
+- Profit Margin
+- Average Order Value
+- Total Customers
+- Total Products
+- Total Quantity
+- Monthly Sales Trend
+- Top 10 Products
+- Top 10 Customers
+- Sales by Customer Segment
+- Sales by Region
+- Sales by City
+- Customer Value Segmentation
+- Sales vs Profit Analysis
+
+### 🔍 Business Questions
+
+The project helps answer questions such as:
+
+- What is the total sales revenue?
+- What is the total profit?
+- How are sales changing over time?
+- Which products generate the highest sales?
+- Which products generate high sales but relatively low profit?
+- Which customers contribute the most revenue?
+- Which customer segment generates the highest sales?
+- Which regions and cities perform better?
+- What is the average order value?
+- How does discounting relate to sales and profitability?
+
+### 🔗 Project Repository
+
+👉 [View Retail Sales & Customer Analytics Project](https://github.com/souvik-dutta2000/retail-sales-customer-analytics)
+
+---
+
+# 📚 Currently Practicing
+
+### SQL
+
+- SELECT
+- WHERE
+- GROUP BY
+- HAVING
+- ORDER BY
+- Aggregate Functions
+- CASE
+- COALESCE
+- JOINs
+- Subqueries
+- CTEs
+- Window Functions
+
+### Excel
+
+- Data Cleaning
+- XLOOKUP
+- INDEX-MATCH
+- IF / IFS
+- SUMIFS / COUNTIFS
+- Pivot Tables
+- Pivot Charts
+- Data Analysis
+
+### Power BI
+
+- Power Query
+- Data Transformation
+- Data Modeling
+- Relationships
+- DAX
+- KPI Cards
+- Interactive Dashboards
+- Business Analysis
+
+---
+
+# 🧠 Data Analytics Learning Journey
+
+```text
+Excel
+  ↓
+Data Cleaning
+  ↓
+SQL
+  ↓
+Power Query
+  ↓
+Power BI
+  ↓
+DAX
+  ↓
+Data Visualization
+  ↓
+Business Insights
+  ↓
+Real-world Data Analytics Projects
