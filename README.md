@@ -2,7 +2,7 @@
 
 [![CodeChef](https://img.shields.io/badge/CodeChef-Profile-brown?logo=codechef&logoColor=white)](https://www.codechef.com/users/souvikdutta)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)## Hi there 👋
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
 
 <!--
 **souvik-dutta2000/souvik-dutta2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
