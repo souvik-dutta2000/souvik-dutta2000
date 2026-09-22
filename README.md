@@ -146,7 +146,7 @@ The project helps answer questions such as:
 
 ### 🔗 Project Repository
 
-👉 [View Retail Sales & Customer Analytics Project](https://github.com/souvik-dutta2000/retail-sales-customer-analytics)
+👉 https://github.com/souvik-dutta2000/Retail_Sales-Customer_analytics_Dashboard
 
 ---
 
