@@ -215,7 +215,7 @@ The project helps answer questions such as:
 - Interactive Dashboards
 - Business Analysis
 
-##  Python for Data Analytics
+###  Python for Data Analytics
 
 Currently developing Python skills for data analysis using:
 
