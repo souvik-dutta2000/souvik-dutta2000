@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 -->
 # Hi, I'm Souvik Dutta 👋
 
-### 📊 Aspiring Data Analyst | Excel | SQL | Power BI | Data Analytics
+### 📊 Aspiring Data Analyst | Excel | SQL | Power BI | Python Libraries | Data Analytics |
 
 I'm a **Data Analyst fresher** building practical projects to develop strong skills in
 data cleaning, analysis, visualization, and business intelligence.
@@ -52,6 +52,16 @@ that can support data-driven business decisions.
 ### 🗄️ Database & Querying
 
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+
+### 🐍 Python for Data Analysis
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
+
 
 ### 🔄 Data Preparation
 
@@ -144,11 +154,39 @@ The project helps answer questions such as:
 - What is the average order value?
 - How does discounting relate to sales and profitability?
 
+
+## 🐍 Python for Data Analytics
+
+Currently developing Python skills for data analysis using:
+
+- Python fundamentals
+- NumPy
+- Pandas
+- Matplotlib
+- Seaborn
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- Data Visualization
+
 ### 🔗 Project Repository
 
 👉 https://github.com/souvik-dutta2000/Retail_Sales-Customer_analytics_Dashboard
 
 ---
+
+# 🎓 Certifications & Learning
+
+### 🔄 Currently In Progress
+
+- Data Analytics Certification — In Progress
+- Python for Data Analytics — In Progress
+- Power BI / Data Visualization Certification — In Progress
+- Excel / Dashboard certification - In Progress
+- SQL / Data Analysis Certification - In Progress
+
+### ✅ Completed Certifications
+
+- Add completed certifications here
 
 # 📚 Currently Practicing
 
@@ -189,6 +227,8 @@ The project helps answer questions such as:
 - Interactive Dashboards
 - Business Analysis
 
+
+
 ---
 
 # 🧠 Data Analytics Learning Journey
@@ -203,6 +243,8 @@ SQL
 Power Query
   ↓
 Power BI
+  ↓
+Python(libraries)
   ↓
 DAX
   ↓
