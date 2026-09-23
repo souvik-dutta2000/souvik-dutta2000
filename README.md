@@ -155,18 +155,6 @@ The project helps answer questions such as:
 - How does discounting relate to sales and profitability?
 
 
-## 🐍 Python for Data Analytics
-
-Currently developing Python skills for data analysis using:
-
-- Python fundamentals
-- NumPy
-- Pandas
-- Matplotlib
-- Seaborn
-- Data Cleaning
-- Exploratory Data Analysis (EDA)
-- Data Visualization
 
 ### 🔗 Project Repository
 
@@ -227,6 +215,18 @@ Currently developing Python skills for data analysis using:
 - Interactive Dashboards
 - Business Analysis
 
+##  Python for Data Analytics
+
+Currently developing Python skills for data analysis using:
+
+- Python fundamentals
+- NumPy
+- Pandas
+- Matplotlib
+- Seaborn
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- Data Visualization
 
 
 ---
@@ -244,12 +244,12 @@ Power Query
   ↓
 Power BI
   ↓
-Python(libraries)
-  ↓
 DAX
   ↓
 Data Visualization
   ↓
 Business Insights
+  ↓
+Python(libraries)
   ↓
 Real-world Data Analytics Projects
