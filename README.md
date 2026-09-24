@@ -169,26 +169,21 @@ The project helps answer questions such as:
 
 - Data Analytics Certification — In Progress
 - Python for Data Analytics — In Progress
-- Power BI / Data Visualization Certification — complete
-- Excel / Dashboard certification - Complete
-- SQL / Data Analysis Certification - Complete
 
 ### ✅ Completed Certifications
 
 ## 🎓 Certifications
 
-- **Data Analytics** — IBM  
-  [View Credential](YOUR-CREDENTIAL-LINK)
 
-- **SQL** — Simplilearn
-  [View Credential](https://lms.simplilearn.com/courses/7823/SQL%20for%20Data%20Analysis/certificate/download-skillup)
+- **SQL** —
+  [ Simplilearn](https://lms.simplilearn.com/courses/7823/SQL%20for%20Data%20Analysis/certificate/download-skillup)
 
-- **Microsoft Excel** — Simplilearn co-powered Microsoft
-  [View Credential](https://lms.simplilearn.com/courses/4483/Excel%20Dashboard%20for%20Beginners/certificate/download-skillup)
+- **Microsoft Excel** —
+  [ Simplilearn co-powered Microsoft](https://lms.simplilearn.com/courses/4483/Excel%20Dashboard%20for%20Beginners/certificate/download-skillup)
 
-- **Power BI** — Simplilearn co_powered by Microsoft & Coding-Ninjas
- 1- [View Credential](https://lms.simplilearn.com/courses/4211/Power-BI-for-Beginners/certificate/download-skillup)
- 2- [View Credential](https://www.linkedin.com/in/souvik-dutta-6a4159257/overlay/Certifications/1420198095/treasury/?profileId=ACoAAD80UZwBTwBYtR0yBbQI6Ql8aa3tJgF7TCs)
+- **Power BI** —
+ 1- [ Simplilearn co_powered by Microsoft](https://lms.simplilearn.com/courses/4211/Power-BI-for-Beginners/certificate/download-skillup)
+ 2- [Coding-Ninjas](https://www.linkedin.com/in/souvik-dutta-6a4159257/overlay/Certifications/1420198095/treasury/?profileId=ACoAAD80UZwBTwBYtR0yBbQI6Ql8aa3tJgF7TCs)
 
 # 📚 Currently Practicing
 
