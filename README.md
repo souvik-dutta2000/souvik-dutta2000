@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi, I'm Souvik Dutta 👋
+# Hi, I'm Souvik Dutta 
 
 ### 📊 Aspiring Data Analyst | Excel | SQL | Power BI | Python Libraries | Data Analytics |
 
