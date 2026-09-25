@@ -178,7 +178,8 @@ The project helps answer questions such as:
 
 ## 🎓 Certifications
 
-- **Data Analytics** — [](https://www.simplilearn.com/learn-data-analytics-for-beginners-skillup)
+- **Data Analytics** —
+-  [Simplilearn](https://www.simplilearn.com/learn-data-analytics-for-beginners-skillup)
 - 
 - **SQL** —
   [ Simplilearn](https://www.simplilearn.com/free-sql-for-data-analysis-course-skillup)
