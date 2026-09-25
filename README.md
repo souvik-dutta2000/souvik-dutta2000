@@ -171,22 +171,23 @@ The project helps answer questions such as:
 
 ### 🔄 Currently In Progress
 
-- Data Analytics Certification — In Progress
 - Python for Data Analytics — In Progress
+
 
 ### ✅ Completed Certifications
 
 ## 🎓 Certifications
 
-
+- **Data Analytics** — [](https://www.simplilearn.com/learn-data-analytics-for-beginners-skillup)
+- 
 - **SQL** —
-  [ Simplilearn](https://lms.simplilearn.com/courses/7823/SQL%20for%20Data%20Analysis/certificate/download-skillup)
+  [ Simplilearn](https://www.simplilearn.com/free-sql-for-data-analysis-course-skillup)
 
 - **Microsoft Excel** —
-  [ Simplilearn co-powered Microsoft](https://lms.simplilearn.com/courses/4483/Excel%20Dashboard%20for%20Beginners/certificate/download-skillup)
+  [ Simplilearn co-powered Microsoft](https://simpli-web.app.link/e/wkjACSEhJ6b)
 
 - **Power BI** —
- 1- [ Simplilearn co_powered by Microsoft](https://lms.simplilearn.com/courses/4211/Power-BI-for-Beginners/certificate/download-skillup)
+ 1- [Simplilearn](https://simpli-web.app.link/e/wkjACSEhJ6b)
  2- [Coding-Ninjas](https://www.linkedin.com/in/souvik-dutta-6a4159257/overlay/Certifications/1420198095/treasury/?profileId=ACoAAD80UZwBTwBYtR0yBbQI6Ql8aa3tJgF7TCs)
 
 # 📚 Currently Practicing
