@@ -161,9 +161,11 @@ The project helps answer questions such as:
 
 
 
-### 🔗 Project Repository
+### 🔗 Project_1_Repository
 
 👉 https://github.com/souvik-dutta2000/Retail_Sales-Customer_analytics_Dashboard
+
+### 🔗 Project_2_Repository
 
 ---
 
