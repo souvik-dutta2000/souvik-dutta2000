@@ -160,6 +160,46 @@ The project helps answer questions such as:
 - How does discounting relate to sales and profitability?
 
 
+###📊 ChurnSense: AI-Powered Business Intelligence
+
+Short Description
+
+An end-to-end customer-churn analysis for a subscription-based broadband company, built on a synthetic 10,000-row dataset. Cleaned and profiled the data in Excel, analyzed it in SQL Server, built an explainable churn-risk score with a backtest, used an LLM to classify customer feedback by sentiment and theme, and delivered a 4-page interactive Power BI dashboard with AI-powered visuals.
+
+###🧰 Tools & Key Functions Used
+
+###📗Excel
+
+TRIM, PROPER — standardize inconsistent city names
+MEDIAN — impute missing Age
+COUNTBLANK, COUNTIF — data profiling and AI-output validation
+PivotTables — churn-rate breakdowns by contract, plan, region
+
+### SQL Server
+
+CASE WHEN, GROUP BY, CAST — churn rate and segment analysis
+SUM() OVER() — percent-of-total revenue lost by churn reason
+WITH ... AS (CTE), LAG() — month-over-month churn trend, spike detection
+RANK() — city-wise churn ranking
+CREATE VIEW — explainable churn-risk score (rule-based points system)
+
+###📊 Power BI / DAX
+
+CALCULATE, DIVIDE, ALL, DATEADD — churn rate, MRR at risk, company-average comparison, prior-month trend
+Key Influencers, Decomposition Tree — AI-driven churn drivers
+Anomaly detection, Forecasting — trend analysis on the Executive Summary page
+
+### 🔍 AI (LLM)
+
+Classified 58 unique customer comments into Sentiment (Positive/Neutral/Negative) and Theme (Network/Speed, Billing/Price, Customer Support, etc.), human-verified against source text
+
+### 🔍Business Questions Answered
+
+What is the overall customer churn rate, and how has it trended over time?
+Which customer segments (contract type, plan, payment method, region) churn the most, and why?
+Which currently active customers are most likely to churn next, and how much revenue is at risk?
+What are customers actually saying in their feedback, and which complaint themes are linked to the highest churn?
+
 
 ### 🔗 Project_1_Repository
 
