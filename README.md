@@ -160,7 +160,7 @@ The project helps answer questions such as:
 - How does discounting relate to sales and profitability?
 
 
-###📊 ChurnSense: AI-Powered Business Intelligence
+##📊 ChurnSense: AI-Powered Business Intelligence
 
 Short Description
 
