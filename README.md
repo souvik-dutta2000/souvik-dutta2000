@@ -166,7 +166,7 @@ The project helps answer questions such as:
 👉 https://github.com/souvik-dutta2000/Retail_Sales-Customer_analytics_Dashboard
 
 ### 🔗 Project_2_Repository
-
+👉 https://github.com/souvik-dutta2000/AI-Powered-Business-Intelligence_Churnsense
 ---
 
 # 🎓 Certifications & Learning
