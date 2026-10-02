@@ -33,7 +33,7 @@ that can support data-driven business decisions.
 
 ## 📄MY-Resume
 
-[📄[SouvikDuttaResume](https://www.linkedin.com/in/souvik-dutta-6a4159257/overlay/1790831490348/single-media-viewer/?profileId=ACoAAD80UZwBTwBYtR0yBbQI6Ql8aa3tJgF7TCs)
+[📄[SouvikDuttaResume](https://github.com/souvik-dutta2000/souvik-dutta2000/blob/main/Souvik_Dutta_Data_Analyst_Resume(CV).pdf)
 
 ## 👨‍💻 About Me
 
