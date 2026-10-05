@@ -31,7 +31,7 @@ that can support data-driven business decisions.
 
 ---
 
-## 📄MY-Resume
+### 📄MY-Resume
 
 [📄[SouvikDuttaResume](https://github.com/souvik-dutta2000/souvik-dutta2000/blob/main/Souvik_Dutta_Data_Analyst_Resume(CV).pdf)
 
