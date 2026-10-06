@@ -1,5 +1,5 @@
 ## 👨‍💻 My-Website
-[![Souvik-Dutta](https://claude.ai/artifact/MzWMa47xf1CieGdmDdEdj7)
+[Souvik-Dutta](https://claude.ai/artifact/MzWMa47xf1CieGdmDdEdj7)
 
 ## 👨‍💻 Coding & Professional Profiles
 
