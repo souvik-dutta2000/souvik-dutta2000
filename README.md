@@ -41,6 +41,7 @@ that can support data-driven business decisions.
 ## 👨‍💻 About Me
 
 - 🎓 B.Tech in Computer Science / Information Technology
+- 🎓 Diploma in Computer Science Technology
 - 📊 Completed Data Analytics training
 - 🔎 Currently looking for **Data Analyst / Junior Data Analyst / Data Analytics Intern** opportunities
 - 📈 Interested in Sales Analytics, Customer Analytics, Business Intelligence and Data Visualization
