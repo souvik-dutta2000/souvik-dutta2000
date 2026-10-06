@@ -1,5 +1,5 @@
 ## 👨‍💻 My-Website
-[![Souvik-Dutta](https://img.shields.io/badge/Souvik-Dutta-Profile-red?logo=codechef&logoColor=black)](https://claude.ai/artifact/MzWMa47xf1CieGdmDdEdj7)
+[![Souvik-Dutta](https://img.shields.io/badge/Souvik-Dutta-Profile-red?logo=Souvik-Dutta&logoColor=black)](https://claude.ai/artifact/MzWMa47xf1CieGdmDdEdj7)
 
 ## 👨‍💻 Coding & Professional Profiles
 
