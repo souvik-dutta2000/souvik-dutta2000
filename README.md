@@ -1,7 +1,7 @@
 ## 👨‍💻 My Protfolio_Website
 [Souvik-Dutta](https://claude.ai/artifact/MzWMa47xf1CieGdmDdEdj7)
 
-## 👨‍💻 Coding & Professional Profile
+## 👨‍💻 Coding & Professional Profiles
 
 [![CodeChef](https://img.shields.io/badge/CodeChef-Profile-brown?logo=codechef&logoColor=white)](https://www.codechef.com/users/souvikdutta)
 [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-green?logo=codechef&logoColor=white)](https://www.hackerrank.com/profile/soumyadutta9748)
