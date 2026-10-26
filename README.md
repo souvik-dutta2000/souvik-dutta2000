@@ -165,7 +165,7 @@ The project helps answer questions such as:
 
 
 
-##📊 ChurnSense: AI-Powered Business Intelligence
+## 📊 
 
 Short Description
 
