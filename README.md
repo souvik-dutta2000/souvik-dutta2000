@@ -286,6 +286,7 @@ Used an AI assistant to draft insights and recommendations from the SQL results,
 👉 https://github.com/souvik-dutta2000/AI-Powered-Business-Intelligence_Churnsense
 
  🔗 Project_3_Repository
+👉 https://github.com/souvik-dutta2000/Social-Media-Reach-Analysis-with-AI
 
 # 🎓 Certifications & Learning
 
