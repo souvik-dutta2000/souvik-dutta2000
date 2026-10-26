@@ -165,7 +165,8 @@ The project helps answer questions such as:
 
 
 
-## 📊 
+## 📊 AI-Powered-Business-Intelligence_Churnsense
+
 
 Short Description
 
