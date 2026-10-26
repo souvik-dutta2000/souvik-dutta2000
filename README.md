@@ -249,8 +249,7 @@ Deliberate data quality problems (cleaned in Excel and SQL):
 25 duplicate rows per platform
 About 50 blank Hashtag_Count and 40 blank Caption_Length values per platform
 About 75 inconsistent Post_Type labels per platform (for example reel  and CAROUSEL)
-3. Architecture
-<p align="center"> <img src="images/Project_Architecture.png" alt="Project architecture: Excel, SQL Server, Power BI, AI" width="90%"> </p>
+
 
 Each tool has one job:
 
@@ -285,7 +284,7 @@ Used an AI assistant to draft insights and recommendations from the SQL results,
 ### 🔗 Project_2_Repository
 👉 https://github.com/souvik-dutta2000/AI-Powered-Business-Intelligence_Churnsense
 
- 🔗 Project_3_Repository
+### 🔗 Project_3_Repository
 👉 https://github.com/souvik-dutta2000/Social-Media-Reach-Analysis-with-AI
 
 # 🎓 Certifications & Learning
